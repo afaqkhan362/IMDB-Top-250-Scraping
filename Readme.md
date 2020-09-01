@@ -33,7 +33,7 @@ Now that our file is created, now is the time to apply data analysis on our file
 
 load another file in the repository named "data-analysis.py". Run this file or execute the code inside it 
 this file will open the csv created in the first file and will start working on its data cleaning and sorting 
-to give you the output results on the screen as shown in the Document "Assignment_Approach_and_Results.docx"
+to give you the output results
 
 Upon successful completion of data-analysis.py file, you will have another file created named "Genre_Based_Gross_USA_Earning.csv". This file contains the total average earning gross USA for each genre.
 
